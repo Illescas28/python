@@ -2,23 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffdc5ac-55a7-4fa8-9fbd-1a4d395c8438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/ejercicios/ejercicios_practicos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/operadores_relacionales_11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/comentarios_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/comentarios_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicios_practicos" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicios_practicos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/indentacion_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/indentacion_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/ingreso_de_datos_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ingreso_de_datos_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/manipulacion_de_datos_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/manipulacion_de_datos_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/modulo_de_la_division_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/modulo_de_la_division_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/nomenclaturas_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/nomenclaturas_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/operaciones_matematicas_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/operaciones_matematicas_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/operadores_relacionales_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/operadores_relacionales_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/potenciacion_y_radicacion_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/potenciacion_y_radicacion_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/punto_flotante_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/punto_flotante_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/variables_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/variables_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +50,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas" />
+      <recent name="$PROJECT_DIR$/aulas/modulo_1" />
+      <recent name="$PROJECT_DIR$/aulas/modulo_1/conceptos_de_programacion" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
