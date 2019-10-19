@@ -2,33 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffdc5ac-55a7-4fa8-9fbd-1a4d395c8438" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/bloques_de_instrucciones_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/operadores_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/operadores_relacionales_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/opreadores_logicos_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/toma_de_decisiones_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/comentarios_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/comentarios_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicio_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicio_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ejercicios/ejercicios_practicos" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ejercicios/ejercicios_practicos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/indentacion_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/indentacion_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/ingreso_de_datos_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/ingreso_de_datos_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/manipulacion_de_datos_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/manipulacion_de_datos_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/modulo_de_la_division_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/modulo_de_la_division_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/nomenclaturas_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/nomenclaturas_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/operaciones_matematicas_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/operaciones_matematicas_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/operadores_relacionales_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/operadores_relacionales_11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/potenciacion_y_radicacion_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/potenciacion_y_radicacion_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/punto_flotante_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/punto_flotante_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/variables_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/variables_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +49,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ejercicio_14">
-    <configuration name="ejercicio_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bloques_de_instrucciones_5">
+    <configuration name="bloques_de_instrucciones_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/ejercicios/ejercicio_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/bloques_de_instrucciones_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="operadores_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/ejercicios/ejercicio_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/operadores_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="operadores_relacionales_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/ejercicios/ejercicio_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/operadores_relacionales_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="opreadores_logicos_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/ejercicios/ejercicio_14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/opreadores_logicos_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="toma_de_decisiones" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/ejercicios/ejercicio_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/toma_de_decisiones_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ejercicio_14" />
-        <item itemvalue="Python.ejercicio_13" />
-        <item itemvalue="Python.ejercicio_12" />
-        <item itemvalue="Python.ejercicio_11" />
-        <item itemvalue="Python.ejercicio_9" />
+        <item itemvalue="Python.bloques_de_instrucciones_5" />
+        <item itemvalue="Python.opreadores_logicos_4" />
+        <item itemvalue="Python.operadores_relacionales_3" />
+        <item itemvalue="Python.operadores_2" />
+        <item itemvalue="Python.toma_de_decisiones" />
       </list>
     </recent_temporary>
   </component>
