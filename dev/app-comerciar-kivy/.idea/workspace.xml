@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffdc5ac-55a7-4fa8-9fbd-1a4d395c8438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/bloques_de_instrucciones_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/operadores_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/operadores_relacionales_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/opreadores_logicos_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/toma_de_decisiones_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicios_practicos" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas/nomenclaturas_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas/nomenclaturas_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas/punto_flotante_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas/punto_flotante_6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +65,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bloques_de_instrucciones_5">
-    <configuration name="bloques_de_instrucciones_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ejercicio_18">
+    <configuration name="ejercicio_14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/bloques_de_instrucciones_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operadores_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejercicio_15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/operadores_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operadores_relacionales_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejercicio_16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/operadores_relacionales_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opreadores_logicos_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejercicio_17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/opreadores_logicos_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="toma_de_decisiones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejercicio_18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/temas/toma_de_decisiones_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bloques_de_instrucciones_5" />
-        <item itemvalue="Python.opreadores_logicos_4" />
-        <item itemvalue="Python.operadores_relacionales_3" />
-        <item itemvalue="Python.operadores_2" />
-        <item itemvalue="Python.toma_de_decisiones" />
+        <item itemvalue="Python.ejercicio_18" />
+        <item itemvalue="Python.ejercicio_15" />
+        <item itemvalue="Python.ejercicio_17" />
+        <item itemvalue="Python.ejercicio_16" />
+        <item itemvalue="Python.ejercicio_14" />
       </list>
     </recent_temporary>
   </component>

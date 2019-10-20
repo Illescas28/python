@@ -1,0 +1,35 @@
+1) Realice un algoritmo que lea un número y muestre si el mismo es positivo, negativo o cero.
+
+2) Realice un algoritmo que lea un número y muestre si el mismo es par o ímpar.
+
+3) Realice un algoritmo que lea a dos números e imprima al mayor de ellos.
+
+4) Realice un algoritmo que pida la edad de una persona e imprima en la pantalla si la misma es mayor de edad o menor de edad.
+
+5) Realice un algoritmo que pida la edad del usuario y la edad de su madre. Seguidamente, imprima en la pantalla la edad a la que su mamá lo tuvo.
+
+6) Realice un algoritmo que imprima 50 veces el carácter "-" en la pantalla (sin la utilización de bucles de repetición).
+
+7) Realice un algoritmo que pida un número al usuario y verifique si el mismo es par o impar.
+
+8) Realice un algoritmo que pida dos números. Primero, imprima al mayor de ellos y, seguidamente imprima al menor de ellos.
+
+9) Realice un algoritmo que verifique si un determinado valor es un número entero.
+
+10) Realice un algoritmo que verifique si un determinado valor es una String.
+
+11) Realice un algoritmo que verifique si un determinado valor es de tipo decimal.
+
+12) Realice un algoritmo que pida un valor numérico. Seguidamente, verifique si el número es entero o decimal.
+
+13) Realice un algoritmo que lea tres números e imprima en la pantalla al mayor de ellos.
+
+14) Realice un algoritmo que lea tres números e imprímalos en orden creciente.
+
+15) Realice un algoritmo que lea un caracter e informe si el mismo es una vocal o no.
+
+16) Las direcciones de IP versión 4 son divididas en cinco clases: A, B, C, D y E. Las direcciones  que se encuentran en un intervalo entre 0 y 127 pertenecen a la clase A, entre 128 y 191 pertenecen a la clase B, entre 192 y 223 pertenecen a la clase C, entre 224 y 239 pertenecen a la clase D y a partir de 240 pertenecen a la clase E. Realice un algoritmo que lea el primer octeto, en el formato decimal de una dirección IP, e informe su clase.
+
+17) Realice un algoritmo que reciba un número entero, que represente un determinado mes del año, y que muestre el mes correspondiente. Por ejemplo, si es informado el número 2, el algoritmo deberá exhibir: febrero. El algoritmo también debe validar si la entrada es correcta.
+
+18) Realice un algoritmo que valide una fecha. La misma debe estar constituída por dia, mes y año. Por ejemplo, si el usuario escribe la fecha 10/8 la misma será inválida. Y en caso de que el usuario  escriba la fecha 01/10/2018, la misma debe ser considerada válida.
