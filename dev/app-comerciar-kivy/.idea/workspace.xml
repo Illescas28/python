@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffdc5ac-55a7-4fa8-9fbd-1a4d395c8438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicios_practicos" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas/nomenclaturas_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas/nomenclaturas_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas/punto_flotante_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas/punto_flotante_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_18.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -9,7 +9,7 @@ if("/" in fecha):
         mes = fecha[1]
         if (len(mes) == 2 and mes in (meses)):
             ano = fecha[2]
-            if (len(ano) ==11/ 4):
+            if (len(ano) == 4):
                 print("La fecha ingresada es: " + str(dia) + "/" + str(mes) + "/" + ano)
             else:
                 print("Año invalido")
