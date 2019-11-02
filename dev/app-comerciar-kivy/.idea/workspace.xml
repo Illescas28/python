@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffdc5ac-55a7-4fa8-9fbd-1a4d395c8438" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_3_operadores/temas/ambitos_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_3_operadores/temas/atribucion_condicional_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_3_operadores/temas/atribucion_multiple_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_3_operadores/temas/operador_de_atribucion1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_3_operadores/temas/operador_de_atribucion2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/bucle_for_y_funcion_range_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/for_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/funcion_range_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/instruccion_break_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/instruccion_continue_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/iteracion_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/while_else_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_18.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +39,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas" />
+      <recent name="$PROJECT_DIR$/aulas/modulo_4_iteradores" />
       <recent name="$PROJECT_DIR$/aulas/modulo_1_conceptos_de_programacion/temas" />
       <recent name="$PROJECT_DIR$/aulas/modulo_1" />
       <recent name="$PROJECT_DIR$/aulas/modulo_1/conceptos_de_programacion" />
@@ -45,8 +58,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ejercicio_18">
-    <configuration name="ejercicio_14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.instruccion_continue_7">
+    <configuration name="bucle_for_y_funcion_range_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/bucle_for_y_funcion_range_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/for_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="funcion_range" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/funcion_range_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="instruccion_break_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/instruccion_break_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio_18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="instruccion_continue_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciar-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_2_toma_de_decision/ejercicios/ejercicio_18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/instruccion_continue_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ejercicio_18" />
-        <item itemvalue="Python.ejercicio_15" />
-        <item itemvalue="Python.ejercicio_17" />
-        <item itemvalue="Python.ejercicio_16" />
-        <item itemvalue="Python.ejercicio_14" />
+        <item itemvalue="Python.instruccion_continue_7" />
+        <item itemvalue="Python.instruccion_break_6" />
+        <item itemvalue="Python.bucle_for_y_funcion_range_5" />
+        <item itemvalue="Python.funcion_range" />
+        <item itemvalue="Python.for_3" />
       </list>
     </recent_temporary>
   </component>
@@ -186,5 +199,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aulas/modulo_4_iteradores/temas/instruccion_continue_7.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
